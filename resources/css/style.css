@@ -1,0 +1,32 @@
+a {
+ color: aquamarine;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+ background-color: black;
+}
+
+h1 {
+ color: white;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ text-align: center;
+}
+
+.image-paragraphs {
+ text-align: center;
+}
+
+.p-link {
+ text-align: center;
+}
+
+.special-text {
+ color: gray;
+ text-align: center;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.video-paragraphs {
+ text-align: center;
+}
